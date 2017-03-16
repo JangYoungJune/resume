@@ -1,4 +1,4 @@
-# - JanggYoungJune's SIMPLE Resume -
+# - JangYoungJune's SIMPLE Resume -
 
 >The Page to prepare my resume! [My github](http://github.com/JangYoungJune)
 
