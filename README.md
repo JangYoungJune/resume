@@ -64,5 +64,5 @@ int main(){
 ---
 
 ### Introduce
-![Myself](Myself.jpg)
+<img src="Myself.jpg" width="500">
 Hello! world! :heart_eyes:
