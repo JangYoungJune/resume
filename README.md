@@ -53,6 +53,7 @@ int main(){
 | Web(a little) | HTML / JavaScript / XML / Servlet |
 | OS | Windows / Linux(Ubuntu) |
 | DB | My SQL |
+| Anything else? | ... |
 
 ----
 
