@@ -46,7 +46,7 @@ int main(){
     + Multimedia
     + Graduation Project 3
 
-| Learned Things ||
+| Learned Things |  |
 |:---:|:---|
 | Language | Java /C / C++ / |
 | IDE | Visual Studio / Eclipse / Android Studio |
