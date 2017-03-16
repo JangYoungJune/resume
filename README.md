@@ -64,5 +64,5 @@ int main(){
 ---
 
 ### Introduce
-![Myself](C:\Users\Lanco\Desktop\1485236718595.jpg)
+![Myself](Myself.jpg)
 Hello! world! :heart_eyes:
